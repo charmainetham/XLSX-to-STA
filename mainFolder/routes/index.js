@@ -13,7 +13,7 @@ router.post("/", function (req, res) {
   var form = new formidable.IncomingForm();
   form.parse(req, function (err, fields, files) {
     var new_file_name = files.logName.name.split('.')[0];
-    new_file_name_w_ext = '../'+new_file_name + '.sta'
+    new_file_name_w_ext = '../sta_files/'+new_file_name + '.sta'
     const file = fs.createWriteStream(new_file_name_w_ext);
 
       var f = files[Object.keys(files)[0]];
@@ -40,7 +40,7 @@ router.post("/", function (req, res) {
 
       file.end()
       file.on("finish",function(){
-        res.download("../GPS_TIME_OF_WEEK_CONVERTER_v1.sta");
+        res.download(new_file_name_w_ext);
       });
   })
  
