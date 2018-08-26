@@ -1,0 +1,532 @@
+sta {
+ID: "404"
+DESC: "STATIC"
+GTime:342197
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "403"
+DESC: "ROAD"
+GTime:342065
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "402"
+DESC: "ROAD"
+GTime:342041
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "401"
+DESC: "ROAD"
+GTime:342025
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "400"
+DESC: "ROAD"
+GTime:341997
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "399"
+DESC: "ROAD"
+GTime:341977
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "398"
+DESC: "ROAD"
+GTime:341953
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "397"
+DESC: "RPAD"
+GTime:341931
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "396"
+DESC: "ROAD"
+GTime:341909
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "395"
+DESC: "ROAD"
+GTime:341889
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "394"
+DESC: "ROAD"
+GTime:341865
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "393"
+DESC: "ROAD"
+GTime:341841
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "392"
+DESC: "ROAD"
+GTime:341819
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "391"
+DESC: "ROAD"
+GTime:341797
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "390"
+DESC: "ROAD"
+GTime:341775
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "389"
+DESC: "PAINT"
+GTime:341675
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "388"
+DESC: "ARROW"
+GTime:341653
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "387"
+DESC: "ARROW"
+GTime:341629
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "386"
+DESC: "ARROW"
+GTime:341587
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "385"
+DESC: "ARROW"
+GTime:341571
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "384"
+DESC: "PAINT"
+GTime:341517
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "383"
+DESC: "PAINT"
+GTime:341495
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "382"
+DESC: "PAINT"
+GTime:341469
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "381"
+DESC: "PAINT"
+GTime:341451
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "380"
+DESC: "PAINT"
+GTime:341429
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "379"
+DESC: "PAINT "
+GTime:341409
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "378"
+DESC: "ROAD"
+GTime:341383
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "377"
+DESC: "ROAD"
+GTime:341347
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "376"
+DESC: "ROAD"
+GTime:341319
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "375"
+DESC: "ROAD"
+GTime:341297
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "374"
+DESC: "ROAD"
+GTime:341275
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "373"
+DESC: "BUSH"
+GTime:341233
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "372"
+DESC: "BUSH"
+GTime:341195
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "371"
+DESC: "BUSH"
+GTime:341175
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "370"
+DESC: "BUSH"
+GTime:341149
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "369"
+DESC: "BUSH"
+GTime:341127
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "368"
+DESC: "BUSH"
+GTime:341099
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "367"
+DESC: "B7SH"
+GTime:341077
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "366"
+DESC: "BUSH"
+GTime:341057
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "365"
+DESC: "BUSH"
+GTime:341037
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "364"
+DESC: "BUSH"
+GTime:341015
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "363"
+DESC: "BUSH"
+GTime:340993
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "362"
+DESC: "BUSH"
+GTime:340935
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "361"
+DESC: "BUSH"
+GTime:340911
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "360"
+DESC: "BUSH"
+GTime:340879
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "359"
+DESC: "GRASS"
+GTime:340859
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "358"
+DESC: "GRASS"
+GTime:340839
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "357"
+DESC: "GRASS"
+GTime:340815
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "356"
+DESC: "GRASS"
+GTime:340793
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "355"
+DESC: "GRASS"
+GTime:340773
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "354"
+DESC: "GRASS"
+GTime:340739
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "353"
+DESC: "GRASS"
+GTime:340717
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "352"
+DESC: "GRASS"
+GTime:340689
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "351"
+DESC: "GRASS"
+GTime:340651
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "350"
+DESC: "GRASS"
+GTime:340629
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "349"
+DESC: "GRASS"
+GTime:340607
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "348"
+DESC: "GRASS"
+GTime:340583
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "347"
+DESC: "GRASS"
+GTime:340557
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "346"
+DESC: "GRASS"
+GTime:340533
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "345"
+DESC: "GRASS"
+GTime:340513
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "344"
+DESC: "GRASS"
+GTime:340493
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "343"
+DESC: "GRASS"
+GTime:340459
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "342"
+DESC: "GRASS"
+GTime:340427
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "341"
+DESC: "GRASS"
+GTime:340403
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "340"
+DESC: "GRASS"
+GTime:340375
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "339"
+DESC: "GRASS"
+GTime:340353
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "338"
+DESC: "GASS"
+GTime:340313
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "337"
+DESC: "GRASS"
+GTime:340287
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "336"
+DESC: "GRASS"
+GTime:340263
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "335"
+DESC: "PT"
+GTime:340239
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "334"
+DESC: "PT"
+GTime:340219
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "333"
+DESC: "PT"
+GTime:340199
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "332"
+DESC: "PT"
+GTime:340171
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "331"
+DESC: "PT"
+GTime:340151
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "330"
+DESC: "PT"
+GTime:340125
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}
+sta {
+ID: "329"
+DESC: "STATIC"
+GTime:340097
+Hi: 2.081 VERT
+Ant: 2.081 2.081
+}

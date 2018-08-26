@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  form#fileUpload(name="fileUpload", method="POST", action="/", enctype="multipart/form-data")
+        input#userInputFile(type="file", name="logName" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel")
+        button(type="submit") Upload
